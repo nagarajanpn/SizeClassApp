@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     var myname2:String = "vijay android developer"
     override func viewDidLoad() {
         super.viewDidLoad()
-      
+      myname = "Gowtham ios Developer"
         
     }
 
