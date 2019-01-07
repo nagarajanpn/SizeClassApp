@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var myname:String = "Nagarajan ios developer"
+    var myname2:String = "vijay android developer"
     override func viewDidLoad() {
         super.viewDidLoad()
       
