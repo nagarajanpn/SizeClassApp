@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     var myname:String = "Nagarajan ios developer"
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+      
         
     }
 
