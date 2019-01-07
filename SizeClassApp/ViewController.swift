@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
       myname = "Gowtham ios Developer"
+        myname2 = "Sridhar EDI Support Manager"
         
     }
 
